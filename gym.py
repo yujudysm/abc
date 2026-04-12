@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 import plotly.express as px
 import plotly.graph_objects as go
 
+#modified by student Yu Ji Young
 # 페이지 설정
 st.set_page_config(
     page_title="개인 운동 계획 생성기",
