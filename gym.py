@@ -7,6 +7,7 @@ import plotly.graph_objects as go
 
 #modified by student Yu Ji Young
 #modified second
+#stop
 # 페이지 설정
 st.set_page_config(
     page_title="개인 운동 계획 생성기",
